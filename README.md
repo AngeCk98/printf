@@ -254,6 +254,6 @@ All the above options work well together.
 
 Project Collaborators
 
-
 Chrisvy Koubangou
+<br/>
 Uluthando Madalane
