@@ -254,7 +254,10 @@ All the above options work well together.
 
 Project Collaborators
 
-
 Chrisvy Koubangou
+<<<<<<< HEAD
 
+=======
+<br/>
+>>>>>>> 103c6dd8b5176e5cc968153096be1853f2c1020c
 Uluthando Madalane
